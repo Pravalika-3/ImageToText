@@ -1,0 +1,6 @@
+transformers==4.39.3
+torch>=2.0.0
+Pillow
+streamlit>=1.30.0
+accelerate
+pytesseract>=0.3.10
